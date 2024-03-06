@@ -15,7 +15,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](phone.jpg)
+![](/images/phone.jpg)
 
 ### Links
 
